@@ -6,7 +6,7 @@ namespace Module3HW2
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Cont");
         }
     }
 }
